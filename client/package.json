@@ -1,6 +1,7 @@
 {
-  "name": "client-v2",
+  "name": "lms-client",
   "version": "0.1.0",
+  "author": "M Gowthami",
   "private": true,
   "scripts": {
     "dev": "react-scripts start",
