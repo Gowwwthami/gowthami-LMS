@@ -4,6 +4,9 @@ import AuthModal from 'components/AuthModal'
 import Header from 'components/Header'
 import logo from 'assets/react.svg'
 import 'styles/ReactWelcome.css'
+import Dashboard from './components/Dashboard';
+
+<Route path="/dashboard" element={<Dashboard role="student" />} />
 
 const App = () => {
   return (
